@@ -51,8 +51,8 @@ bower.json
 # Ignore node_modules
 node_modules/
 
-#vscode
-/.vscode
+#ignorando vscode
+.vscode/
 
 # Ignore precompiled javascript packs
 /public/packs
