@@ -10,7 +10,7 @@
 # Ignore bundler config.
 /.vscode
 # Ignore bundler config.
-.vscode/
+vscode/
 
 
 # Ignore all logfiles and tempfiles.
