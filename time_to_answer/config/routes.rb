@@ -10,7 +10,7 @@ Rails.application.routes.draw do
     #get 'admins/index'
     #get 'admins/edit/:id', to: 'admins#edit'
     #get 'admins/update/:id', to: 'admins#update'
-    resources :admins, only: [:index, :edit, :update] # Admins
+    resources :admins # Admins
   end
   devise_for :admins
   devise_for :users
